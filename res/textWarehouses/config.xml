@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>  
+<config>  
+<Game_control  
+lvl_for_new_location="3"
+></Game_control>
+
+
+<Graphics_path 
+LoaderView="../res/warehouses/LoaderView.swf"
+GameGraphics="../res/warehouses/GameGraphics.swf"
+GameIcons="../res/warehouses/GameIcons.swf"
+Level_0="../res/warehouses/Level_0.swf"
+Level_1="../res/warehouses/Level_1.swf"
+Level_2="../res/warehouses/Level_2.swf"
+Level_3="../res/warehouses/Level_3.swf"
+Level_4="../res/warehouses/Level_4.swf"
+Level_5="../res/warehouses/Level_5.swf"
+></Graphics_path>
+
+
+</config>  
